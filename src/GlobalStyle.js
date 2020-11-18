@@ -16,6 +16,7 @@ export const GlobalStyle = createGlobalStyle`
     --Lime: #eeff41;
     --Smoke: #eceff1;
     --Orange: #FF330D;
+    --Blue: #0000ba;
 
 
 
