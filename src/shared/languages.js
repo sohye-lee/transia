@@ -59,4 +59,4 @@ export const LANGUAGES = [
         name: "Austrian",
         image: "/images/languages/austria.png"
     }
-]
+];

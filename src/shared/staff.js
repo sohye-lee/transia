@@ -1,4 +1,4 @@
-export const STAFFS = [
+export const STAFF = [
     {
         id: 0,
         name: "Will",
@@ -18,27 +18,27 @@ export const STAFFS = [
         name: "Andrew",
         title: "Media Subtitles",
         description: "Need a quick translating or cationing service? Then please talk to me.",
-        image: '/images/staff_andrew.jpg'
+        image: '/images/staff/staff_andrew.jpg'
     },
     {
         id: 3,
         name: "Jeff",
         title: "SEO Translation",
         description: "Do you want a translation service focused on marketing and social network? I am here for you.",
-        image: '/images/staff_jeff.jpg'
+        image: '/images/staff/staff_jeff.jpg'
     },
     {
         id: 4,
         name: "Tatianna",
         title: "Voiceover & Video Translation",
         description: "I have worked in various industry and one of them is film and movie. I will assist you through your video project.",
-        image: '/images/staff_tatianna.jpg'
+        image: '/images/staff/staff_tatianna.jpg'
     },
     {
         id: 5,
         name: "Sonya",
         title: "General Inquiry",
         description: "As a manager, I am here to answer your questions. If you need full assistance, you should talk to me.",
-        image: '/images/staff_sonya.jpg'
+        image: '/images/staff/staff_sonya.jpg'
     }
 ]
